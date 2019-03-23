@@ -1,13 +1,13 @@
 {
   "name": "Johnny_Five_1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Proyectos destinados a una mejor manera de entender la funcionalidad del Framework Johnny Five (J5)",
+  "main": "led.js",
   "scripts": {
     "reset": "firmata-party uno --debug"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adrian Garcia 1151295 - Brayam Caicedo 1151447",
   "license": "ISC",
   "dependencies": {
     "firmata-party": "^1.5.10",
